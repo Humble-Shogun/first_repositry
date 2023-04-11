@@ -29,7 +29,7 @@ print(set(filter(lambda x:x%3==0 and x%5==0,r)))
 #4 create a list char for every string in a list
 
 #5 concatenate the elements of alist and create a new list
-
+print("New change")
 
 
 
